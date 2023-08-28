@@ -18,7 +18,7 @@ This project is a React template that incorporates the major ideas of Tailwind C
 
 1. Clone the repository:
 
-shell git clone https://github.com/Basel-nj/Tailwind-Template.git
+    git clone https://github.com/Basel-nj/Tailwind-Template.git
 
 
 2. Navigate to the project directory:
